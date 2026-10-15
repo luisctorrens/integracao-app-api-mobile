@@ -1,6 +1,6 @@
 # API de produtos
 
-Derivada do `AulaAPI.zip` publicado como **Fonte Api de produtos** no AVA da UC Desenvolvimento de Sistemas Distribuídos. O arquivo original não está neste repositório. Esta cópia foi estendida com GET por ID, PUT, DELETE, validação, CORS local, dados iniciais e testes. A autoria do exemplo original é do professor/SENAI; as extensões foram feitas com auxílio do Codex em 14/10/2026. Veja [a nota de proveniência](../NOTICE.md).
+Derivada do `AulaAPI.zip` publicado como **Fonte Api de produtos** no AVA da UC Desenvolvimento de Sistemas Distribuídos. O arquivo original não está neste repositório. Esta cópia foi estendida com GET por ID, PUT, DELETE, validação, CORS local, dados iniciais e testes. A autoria do exemplo original é do professor/SENAI.
 
 ## Executar
 
